@@ -1,0 +1,10 @@
+[2026-11-17 18:57:20] [INFO] --- INICIO DE LA SIMULACIÓN ---
+[2026-11-17 18:57:20] [ERROR] Validación de cliente fallida: La cédula debe tener al menos 5 caracteres.
+[2026-11-17 18:57:20] [ERROR] Validación de servicio fallida: El costo base debe ser mayor a cero.
+[2026-11-17 18:57:20] [INFO] Reserva 501 confirmada para Andres Bustos. Total: $178500.00
+[2026-11-17 18:57:20] [ERROR] Error al procesar reserva 502: Las horas de reserva deben ser mayores a cero.
+[2026-11-17 18:57:20] [INFO] Reserva 503 confirmada para Andres Bustos. Total: $542640.00
+[2026-11-17 18:57:20] [ERROR] Error al procesar reserva 504: El servicio solicitado no está disponible.
+[2026-11-17 18:57:20] [INFO] Reserva 501 cancelada.
+[2026-11-17 18:57:20] [WARNING] Intento fallido de cancelar reserva 502 en estado Fallida.
+[2026-11-17 18:57:20] [INFO] --- FIN DE LA SIMULACIÓN ---
