@@ -8,3 +8,5 @@
 [2026-11-17 18:57:20] [INFO] Reserva 501 cancelada.
 [2026-11-17 18:57:20] [WARNING] Intento fallido de cancelar reserva 502 en estado Fallida.
 [2026-11-17 18:57:20] [INFO] --- FIN DE LA SIMULACIÓN ---
+[2026-11-20 18:46:24] [ERROR] Validación de cliente fallida (GUI): El nombre del cliente no puede estar vacío.
+[2026-11-20 18:46:32] [ERROR] Validación de cliente fallida (GUI): La cédula debe tener al menos 5 caracteres.
